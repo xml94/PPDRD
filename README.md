@@ -110,3 +110,41 @@ verify the performance on the private ones, although they have information and c
 [NZDLPlantDiseaseV2]: https://github.com/xml94/PPDRD/tree/main/data/NZDLPlantDiseaseV2.md
 [FieldPlant]: https://github.com/xml94/PPDRD/tree/main/data/FieldPlant.md
 [GrapevineDiseaseMalo]: https://github.com/xml94/PPDRD/tree/main/data/GrapevineDiseaseMalo.md
+
+
+# Reference
+Please consider cite our related papers if you think this project is useful.
+```angular2html
+@article{xu2023plant,
+  title={Plant Disease Recognition Datasets in the Age of Deep Learning: Challenges and Opportunities},
+  author={Xu, Mingle and Park, Ji Eun and Lee, Jaehwan and Yang, Jucheng and Yoon, Sook},
+  journal={arXiv preprint arXiv:2312.07905},
+  year={2023}
+}
+@article{meng2023known,
+  title={Known and unknown class recognition on plant species and diseases},
+  author={Meng, Yao and Xu, Mingle and Kim, Hyongsuk and Yoon, Sook and Jeong, Yongchae and Park, Dong Sun},
+  journal={Computers and Electronics in Agriculture},
+  volume={215},
+  pages={108408},
+  year={2023},
+  publisher={Elsevier}
+}
+@article{xu2023embracing,
+  title={Embracing limited and imperfect training datasets: opportunities and challenges in plant disease recognition using deep learning},
+  author={Xu, Mingle and Kim, Hyongsuk and Yang, Jucheng and Fuentes, Alvaro and Meng, Yao and Yoon, Sook and Kim, Taehyun and Park, Dong Sun},
+  journal={Frontiers in Plant Science},
+  volume={14},
+  year={2023},
+  publisher={Frontiers Media SA}
+}
+@article{xu2022transfer,
+  title={Transfer learning for versatile plant disease recognition with limited data},
+  author={Xu, Mingle and Yoon, Sook and Jeong, Yongchae and Park, Dong Sun},
+  journal={Frontiers in Plant Science},
+  volume={13},
+  pages={1010981},
+  year={2022},
+  publisher={Frontiers}
+}
+```
