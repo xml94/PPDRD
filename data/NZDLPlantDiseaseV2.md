@@ -15,7 +15,7 @@
 | Crop and class              | 8 vegetables                                                                                      |
 | Organ of interest           |                                                                                                   |
 | Imaging environment         |                                                                                                   |
-| Resolution of image         |                                                                                                   |
+| Resolution of image         | 256*256                                                                                           |
 | Modality of optical sensors |                                                                                                   |
 | Platform                    |                                                                                                   |
 | Annotation strategy         |                                                                                                   |

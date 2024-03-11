@@ -15,7 +15,7 @@
 | Crop and class              | 5 crops                                                              |
 | Organ of interest           | Leaf, stem, fruit                                                    |
 | Imaging environment         |                                                                      |
-| Resolution of image         |                                                                      |
+| Resolution of image         | 256*256                                                              |
 | Modality of optical sensors |                                                                      |
 | Platform                    |                                                                      |
 | Annotation strategy         |                                                                      |
